@@ -1,9 +1,10 @@
-YakYak
-======
+# YakYak
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/yakyak/yakyak.svg)](https://greenkeeper.io/)
 
 [![Build Status](https://travis-ci.org/yakyak/yakyak.svg)](https://travis-ci.org/yakyak/yakyak)
+
+This is a fork of YakYak to fix a [bug](https://github.com/yakyak/yakyak/issues/918) where the app would get stuck on the loading screen. The maintainers appear to be unavailable so I made this as a temporary solution.
 
 Desktop client for Google Hangouts
 
@@ -44,8 +45,7 @@ We love [bug reports](https://github.com/yakyak/yakyak/issues)!
 
 **NOTE**
 
-Yakyak may show up as iOS Device and Google may alert you that *"some iOS Device is trying to use your account"*. This is normal as yakyak is an unofficial client and it mimics the behaviour of an iOS device in order to establish a communication with Google Hangout APIs.
-
+Yakyak may show up as iOS Device and Google may alert you that _"some iOS Device is trying to use your account"_. This is normal as yakyak is an unofficial client and it mimics the behaviour of an iOS device in order to establish a communication with Google Hangout APIs.
 
 ## Credits
 
@@ -76,19 +76,19 @@ It is written in coffeescript (nodejs) based on
 You can improve YakYak in many ways:
 
 * Core functionality
-* Interface *(example: new themes only require choosing less than 20 colors)*
+* Interface _(example: new themes only require choosing less than 20 colors)_
 * Bug fixing
-* Translations *(new translation only need 117 strings)*
+* Translations _(new translation only need 117 strings)_
 
 Send a pull request, start a conversation with a
 [new issue](https://github.com/yakyak/yakyak/issues/new) or participate on a
- [ongoing conversation](https://github.com/yakyak/yakyak/issues).
+[ongoing conversation](https://github.com/yakyak/yakyak/issues).
 
 ### Setup
 
 Requirements:
 
-- Node.js (v4 or v6)
+* Node.js (v4 or v6)
 
 ```bash
 $ npm install
@@ -109,9 +109,9 @@ $ npm run electron app
 
 ### Build Binaries for Deployment
 
-*Supported platforms:* Windows (*win32*), Mac OS X (*darwin*), Linux (*linux*)
+_Supported platforms:_ Windows (_win32_), Mac OS X (_darwin_), Linux (_linux_)
 
-*Suported architectures:* 64-bits (*x64*), 32-bits (*ia32*)
+_Suported architectures:_ 64-bits (_x64_), 32-bits (_ia32_)
 
 ```bash
 # Building for all platforms and architectures
@@ -130,17 +130,17 @@ $ npm run deploy:linux-x64:rpm
 $ npm run deploy:linux-x64:deb
 ```
 
-*note:* if you are building *Windows* binaries in *Linux* or *Mac OS X*, Wine (1.6 or higher) must be installed. It also requires a 32-bit Wine installation when building Windows 32-bit binary.
+_note:_ if you are building _Windows_ binaries in _Linux_ or _Mac OS X_, Wine (1.6 or higher) must be installed. It also requires a 32-bit Wine installation when building Windows 32-bit binary.
 
 ### Structure
 
 | Location  | Description                              |
-|-----------|------------------------------------------|
+| --------- | ---------------------------------------- |
 | `src/`    | Is where sources live                    |
 | `src/ui/` | Holds renderer code (client side)        |
 | `dist/`   | Everything is compiled to this directory |
 
 ### Acknowledgement
 
-- All the users and developers of YakYak
-- ["You wouldn't believe"](https://notificationsounds.com/notification-sounds/you-wouldnt-believe-510) as the 'new message' sound for some platforms and is licensed under CC
+* All the users and developers of YakYak
+* ["You wouldn't believe"](https://notificationsounds.com/notification-sounds/you-wouldnt-believe-510) as the 'new message' sound for some platforms and is licensed under CC

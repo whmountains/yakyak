@@ -5,7 +5,6 @@ lib-cov
 *.dat
 *.out
 *.pid
-*.gz
 
 pids
 logs
@@ -22,6 +21,7 @@ doc
 
 Yakyak.app
 app
-dist
 scrape-emojipedia.org.py
 .idea/
+
+/dist/*/*
