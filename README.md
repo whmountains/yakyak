@@ -6,6 +6,16 @@
 
 This is a fork of YakYak to fix a [bug](https://github.com/yakyak/yakyak/issues/918) where the app would get stuck on the loading screen. The maintainers appear to be unavailable so I made this as a temporary solution.
 
+### Download Links
+
+* [yakyak-1.5.1-linux-ia32.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-linux-ia32.tar.gz)
+* [yakyak-1.5.1-linux-x64.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-linux-x64.tar.gz)
+* [yakyak-1.5.1-osx.zip](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-osx.zip)
+* [yakyak-1.5.1-win32-ia32.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-win32-ia32.zip)
+* [yakyak-1.5.1-win32-x64.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-win32-x64.zip)
+
+---
+
 Desktop client for Google Hangouts
 
 ![sshot](https://cloud.githubusercontent.com/assets/123929/16032313/cdba46c2-3204-11e6-912f-a72fef60563a.png)
