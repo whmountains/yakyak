@@ -8,11 +8,11 @@ This is a fork of YakYak to fix a [bug](https://github.com/yakyak/yakyak/issues/
 
 ### Download Links
 
-* [yakyak-1.5.2-linux-ia32.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-linux-ia32.tar.gz)
-* [yakyak-1.5.2-linux-x64.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-linux-x64.tar.gz)
-* [yakyak-1.5.2-osx.zip](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-osx.zip)
-* [yakyak-1.5.2-win32-ia32.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-win32-ia32.zip)
-* [yakyak-1.5.2-win32-x64.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.1-win32-x64.zip)
+* [yakyak-1.5.2-linux-ia32.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.2-linux-ia32.tar.gz)
+* [yakyak-1.5.2-linux-x64.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.2-linux-x64.tar.gz)
+* [yakyak-1.5.2-osx.zip](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.2-osx.zip)
+* [yakyak-1.5.2-win32-ia32.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.2-win32-ia32.zip)
+* [yakyak-1.5.2-win32-x64.tar.gz](https://rawgit.com/whmountains/yakyak/master/dist/yakyak-1.5.2-win32-x64.zip)
 
 ---
 
