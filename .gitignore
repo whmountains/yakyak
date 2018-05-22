@@ -24,4 +24,6 @@ app
 scrape-emojipedia.org.py
 .idea/
 
-/dist/*/*
+/dist/YakYak-darwin*
+/dist/YakYak-linux*
+/dist/YakYak-win32*
